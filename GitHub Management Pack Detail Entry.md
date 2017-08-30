@@ -1,10 +1,10 @@
 
 ## Managing the GitHub Managment Pack Detail Entry
 
-*Pairing with the [Management Pack Index](http://www.github.com) this JSON file provides the details for a Community Based Management Pack.  The below steps provide documentation on using the file to describe a Management Pack*
+*Pairing with the [Management Pack Index](https://github.com/P2P-Nathan/SQMP-CMPC/blob/master/GitHub%20Managment%20Pack%20Index.md) this JSON file provides the details for a Community Based Management Pack.  The below steps provide documentation on using the file to describe a Management Pack*
 
 #### Overview
-After the UI in the SCOM console has pulled the [Management Pack Index](http://www.github.com) the second step proceeds to retrieve the detail file via HTTP GET.  This file is used for the following functions.
+After the UI in the SCOM console has pulled the [Management Pack Index](https://github.com/P2P-Nathan/SQMP-CMPC/blob/master/GitHub%20Managment%20Pack%20Index.md) the second step proceeds to retrieve the detail file via HTTP GET.  This file is used for the following functions.
 - Provided additional detail for the UI
 - Indicates where there end user can obtain the pack
 - Tracks the version of the pack so that we provide update notifications

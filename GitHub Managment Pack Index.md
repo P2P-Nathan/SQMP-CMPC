@@ -24,7 +24,7 @@ When the Community Management Pack Catalog view is loaded in the SCOM console th
 This value must be unique within the index and should describe the pack.  Using the Management Packs System Name would be a good choice, unless there is a specific reason that it will not work.
 
 ###### ManagementPackDetailLocation
-A fully qualified URL to the JSON file that provideds the detailed information on the Management Pack.  See the [GitHub Management Pack Detail Entry](http://github.com) documentation for more information on this file.
+A fully qualified URL to the JSON file that provideds the detailed information on the Management Pack.  See the [GitHub Management Pack Detail Entry](https://github.com/P2P-Nathan/SQMP-CMPC/blob/master/GitHub%20Management%20Pack%20Detail%20Entry.md) documentation for more information on this file.
 
 ###### Active (Optional)
 This property is optional and will default to true if no value is provided.  If set to false the UI will ignore this entry in the Management Pack Catalog.
