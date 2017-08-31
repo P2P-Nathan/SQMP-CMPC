@@ -1,0 +1,8 @@
+[
+{ 
+    "ManagementPackSystemName":"SQMP.Community.ManagementPackCatalog"
+},
+{ 
+    "ManagementPackSystemName":"SQMP.Community.ManagementPackCatalog.V2",
+}
+]
