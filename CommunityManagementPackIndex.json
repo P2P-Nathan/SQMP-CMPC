@@ -6,5 +6,8 @@
     {
         "ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog.V2"
     }
-    
+    ,
+    {
+        "Community.PowershellMonitoring"
+    }    
 ]
