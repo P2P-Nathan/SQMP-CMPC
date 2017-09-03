@@ -8,6 +8,6 @@
     }
     ,
     {
-        "Community.PowershellMonitoring"
+        "ManagementPackSystemName" : "Community.PowershellMonitoring"
     }    
 ]
