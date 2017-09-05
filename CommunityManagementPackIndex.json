@@ -1,13 +1,24 @@
-[
-    {
-        "ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog"
-    }
-    ,
-    {
-        "ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog.V2"
-    }
-    ,
-    {
-        "ManagementPackSystemName": "Community.PowershellMonitoring"
-    }    
-]
+[{
+	"ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog"
+},
+{
+	"ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog.V2"
+},
+{
+	"ManagementPackSystemName": "Community.PowershellMonitoring"
+},
+{
+	"ManagementPackSystemName": "OpsMgr.2012.Self.Maintenance"
+},
+{
+	"ManagementPackSystemName": "HealthServiceStore.Monitoring"
+},
+{
+	"ManagementPackSystemName": "OpsMgr.Group.Health.Rollup.Task"
+},
+{
+	"ManagementPackSystemName": "Autodefragment"
+},
+{
+	"ManagementPackSystemName": "ConfigMgr.2012.Client.Monitoring"
+}]

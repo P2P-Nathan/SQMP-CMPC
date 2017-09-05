@@ -1,0 +1,7 @@
+{ 
+    "ManagementPackSystemName":"HealthServiceStore.Monitoring",
+    "ManagementPackDisplayName":"Health Service Store Monitoring",
+    "URL":"http://www.SquaredUp.com/ManagementPacks",
+    "Version":"1.0.0.13",
+    "Author":"Jimmy Harper"
+}
