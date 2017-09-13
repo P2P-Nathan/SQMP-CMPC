@@ -3,5 +3,12 @@
     "ManagementPackDisplayName":"PowerShell Monitoring Management Pack",
     "URL":"http://www.SquaredUp.com/ManagementPacks",
     "Version":"2.2.4.3",
-    "Author":"Squared Up Ltd."
+    "Author":"Squared Up Ltd.",
+    "Tags":
+        [
+            "PowerShell",
+            "Templates",
+            "Authoring",
+            "Free"
+        ]
 }
