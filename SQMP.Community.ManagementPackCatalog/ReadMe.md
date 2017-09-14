@@ -1,12 +1,40 @@
-# Structured documents
+1.  List item one.
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+    List item one continued with a second paragraph followed by an
+    Indented block.
 
-### This is a third-tier heading
+        $ ls *.sh
+        $ mv *.sh ~/tmp
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+    List item continued with a third paragraph.
 
-If you'd like to quote someone, use the > character before the line:
+2.  List item two continued with an open block.
 
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+    This paragraph is part of the preceding list item.
+
+    1. This list is nested and does not require explicit item continuation.
+
+       This paragraph is part of the preceding list item.
+
+    2. List item b.
+
+    This paragraph belongs to item two of the outer list.
+    
+    
+    Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
