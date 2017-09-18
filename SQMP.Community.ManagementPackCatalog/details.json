@@ -1,7 +1,16 @@
-{ 
-    "ManagementPackSystemName":"SQMP.Community.ManagementPackCatalog",
-    "ManagementPackDisplayName":"Community Management Pack Catalog",
-    "URL":"http://www.SquaredUp.com/ManagementPacks",
-    "Version":"1.2.4.3",
-    "Author":"Squared Up Ltd."
+{
+  "ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog",
+  "ManagementPackDisplayName": "Community Management Pack Catalog",
+  "URL": "http://www.SquaredUp.com/ManagementPacks",
+  "Version": "1.2.4.3",
+  "Author": "Squared Up Ltd.",
+  "Tags": [
+    "Free",
+    "Recommended",
+    "You Should Really Have this installed",
+    "Someone added too many tags!",
+    "Should we limit tags?",
+    ":-)",
+    "More junk tags here!!!"
+  ]
 }
