@@ -18,4 +18,16 @@
 },
 {
 	"ManagementPackSystemName": "ConfigMgr.2012.Client.Monitoring"
+},
+{
+	"ManagementPackSystemName": "Community.DataOnDemand.Unix"
+},
+{
+	"ManagementPackSystemName": "Community.DataOnDemand"
+},
+{
+	"ManagementPackSystemName": "Community.Citrix.LogonSimulator"
+},
+{
+	"ManagementPackSystemName": "P2P.OMSAdministration"
 }]
