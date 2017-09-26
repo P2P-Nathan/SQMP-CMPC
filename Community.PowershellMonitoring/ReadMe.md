@@ -1,13 +1,14 @@
+## Introducing the PowerShell Monitoring Management Pack ##
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+[logo]: https://download.squaredup.com/images/logo.png
+The PowerShell Monitoring Management Pack adds support for PowerShell everywhere that you would expect to see it within the authoring pane of the SCOM console (i.e. everywhere there is currently VBScript).
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://download.squaredup.com/images/logo.png "SquaredUp")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-## Hello There
+
 
 
