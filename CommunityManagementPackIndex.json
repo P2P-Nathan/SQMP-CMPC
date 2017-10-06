@@ -43,4 +43,11 @@
 },
 {
  	"ManagementPackSystemName": "URLGenie"
-}]
+},
+{
+ 	"ManagementPackSystemName": "QND.Network.Kemp"
+},
+{
+ 	"ManagementPackSystemName": "QND.Hyperv2012R2"
+}
+]
