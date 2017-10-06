@@ -30,4 +30,10 @@
 },
 {
 	"ManagementPackSystemName": "P2P.OMSAdministration"
+},
+{
+ 	"ManagementPackSystemName":"QueryOleDbMonitor"
+},
+{
+ 	"ManagementPackSystemName":"Security.Monitoring"
 }]
