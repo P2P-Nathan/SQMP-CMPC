@@ -1,23 +1,12 @@
-[{
-	"ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog"
-},
+[
 {
-	"ManagementPackSystemName": "Community.PowershellMonitoring"
-},
-{
-	"ManagementPackSystemName": "OpsMgr.2012.Self.Maintenance"
-},
-{
-	"ManagementPackSystemName": "HealthServiceStore.Monitoring"
-},
-{
-	"ManagementPackSystemName": "OpsMgr.Group.Health.Rollup.Task"
+	"ManagementPackSystemName": "Aquilaweb.Support.PendingReboot"
 },
 {
 	"ManagementPackSystemName": "Autodefragment"
 },
-{
-	"ManagementPackSystemName": "ConfigMgr.2012.Client.Monitoring"
+	{
+	"ManagementPackSystemName": "Community.Citrix.LogonSimulator"
 },
 {
 	"ManagementPackSystemName": "Community.DataOnDemand.Unix"
@@ -26,14 +15,32 @@
 	"ManagementPackSystemName": "Community.DataOnDemand"
 },
 {
-	"ManagementPackSystemName": "Community.Citrix.LogonSimulator"
+	"ManagementPackSystemName": "Community.PowershellMonitoring"
+},
+{
+	"ManagementPackSystemName": "ConfigMgr.2012.Client.Monitoring"
+},
+{
+	"ManagementPackSystemName": "HealthServiceStore.Monitoring"
+},
+{
+	"ManagementPackSystemName": "OpsMgr.2012.Self.Maintenance"
+},
+{
+	"ManagementPackSystemName": "OpsMgr.Group.Health.Rollup.Task"
 },
 {
 	"ManagementPackSystemName": "P2P.OMSAdministration"
 },
 {
- 	"ManagementPackSystemName":"QueryOleDbMonitor"
+ 	"ManagementPackSystemName": "QueryOleDbMonitor"
 },
 {
- 	"ManagementPackSystemName":"Security.Monitoring"
-}]
+	"ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog"
+},
+{
+ 	"ManagementPackSystemName": "SystemCenterCentral.Utilities.Certificates"
+},
+{
+ 	"ManagementPackSystemName": "URLGenie"
+},]
