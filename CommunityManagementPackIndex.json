@@ -33,21 +33,27 @@
 	"ManagementPackSystemName": "P2P.OMSAdministration"
 },
 {
+ 	"ManagementPackSystemName": "QND.Hyperv2012R2"
+},
+{
+ 	"ManagementPackSystemName": "QND.Network.Kemp"
+},
+{
  	"ManagementPackSystemName": "QueryOleDbMonitor"
 },
 {
+ 	"ManagementPackSystemName": "SAMPLE.OPERATIONSMANAGER.2016.UPGRADE"
+},
+{
 	"ManagementPackSystemName": "SQMP.Community.ManagementPackCatalog"
+},
+{
+ 	"ManagementPackSystemName": "Security.Monitoring"
 },
 {
  	"ManagementPackSystemName": "SystemCenterCentral.Utilities.Certificates"
 },
 {
  	"ManagementPackSystemName": "URLGenie"
-},
-{
- 	"ManagementPackSystemName": "QND.Network.Kemp"
-},
-{
- 	"ManagementPackSystemName": "QND.Hyperv2012R2"
 }
 ]
