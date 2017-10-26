@@ -11,8 +11,8 @@ $indexFileName = "Index.json"
 
 Describe "Index.json" -Tag $location {
     $path = Join-Path $location $indexFileName
-    $contents = Get-Content $path -Raw -ErrorAction SilentlyContinue
-    $json = ConvertFrom-Json $contents -ErrorAction SilentlyContinue
+    $contents = Get-Content $path -Raw #-ErrorAction SilentlyContinue
+    $json = ConvertFrom-Json $contents #-ErrorAction SilentlyContinue
 
     Context 'File Validity' {
 
