@@ -5,7 +5,7 @@
 
 [CmdletBinding()]
 Param()
-cd ..
+
 $location = Split-Path $script:MyInvocation.MyCommand.Path
 $indexFileName = "Index.json"
 
