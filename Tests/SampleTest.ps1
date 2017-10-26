@@ -1,3 +1,5 @@
+Import-Module -Force $PSScriptRoot\..\SampleTest.ps1
+
 Describe 'SampleTest' {
     Context 'Strict mode' { 
         Set-StrictMode -Version latest
